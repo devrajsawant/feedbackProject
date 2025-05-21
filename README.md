@@ -9,7 +9,7 @@ email - admin@quvor.com
 password - password 
 
 user:
-email - user@quvor
+email - user@quvor.com
 password - password
 
 
